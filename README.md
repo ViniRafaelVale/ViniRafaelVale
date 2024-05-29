@@ -32,10 +32,6 @@ public class Vinícius {
 <div align="center"> 
   <a href = "mailto:vinirafael07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake.svg" />
-</picture>
+  ![github-snake-dark](https://github.com/ViniRafaelVale/ViniRafaelVale/assets/91162689/b73bf8fe-9c02-4f02-8e28-c1e8c54b5ad1)
+</div>
