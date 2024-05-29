@@ -1,8 +1,12 @@
-## Olá 👋
+## Hello World 👋
 
-Sou o Vinícius Rafael, sou formado em Técnico em Informática para Internet no Instituto Federal de São Paulo (IFSP) e atualmente estou cursando Bacharelado em Engenharia de Software no Instituto Federal de São Paulo (IFSP) 💻
-
-#### Seja bem vindo ao meu perfil!!!
+ ```java
+public class Vinícius {
+  private String name = 'Vinícius Rafael Vale';
+  private Location location = new Location("Brazil", "São Carlos", "SP");
+  private int age = 19;
+}
+```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +29,13 @@ Sou o Vinícius Rafael, sou formado em Técnico em Informática para Internet no
 
  ##
  
-<div> 
+<div align="center"> 
   <a href = "mailto:vinirafael07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ViniRafaelVale/ViniRafaelVale/output/github-contribution-grid-snake.svg" />
+</picture>
