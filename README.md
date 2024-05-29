@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou o Vinícius Rafael, sou formado em Técnico em Informática para Internet no no Instituto Federal de São Paulo (IFSP) e atualmente estou cursando Bacharelado em Engenharia de Software no Instituto Federal de São Paulo (IFSP) 💻
+Sou o Vinícius Rafael, sou formado em Técnico em Informática para Internet no Instituto Federal de São Paulo (IFSP) e atualmente estou cursando Bacharelado em Engenharia de Software no Instituto Federal de São Paulo (IFSP) 💻
 
 #### Seja bem vindo ao meu perfil!!!
 
