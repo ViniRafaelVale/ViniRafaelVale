@@ -21,17 +21,18 @@ public class Vinícius {
   
  ##
 
- <div> 
+ <div align="center"> 
+  <br>
   <a href="https://www.instagram.com/vini_rafael_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinirafael07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-rafael-vale-265a302a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-
- ##
+ </div> 
  
-<p align="center">
-        <img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api?username=ViniRafaelVale&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-        <img height="200em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniRafaelVale&layout=donut&theme=gruvbox"/>
-</p>
+ ##
+
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniRafaelVale&layout=donut&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniRafaelVale&theme=gruvbox)  
+| :-: | :-: |
 
  ##
+
+ <h6 align="center">ViniRafaelVale©️ 2024</h6>
