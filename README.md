@@ -42,4 +42,4 @@ public class Vinícius {
 
  ##
 
- <h6 align="center">ViniRafaelVale©️ 2025</h6>
+ <h6 align="center">ViniRafaelVale©️2025</h6>
