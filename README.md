@@ -15,6 +15,7 @@ public class Vinícius {
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Vini-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
@@ -29,10 +30,16 @@ public class Vinícius {
  </div> 
  
  ##
+<div>
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniRafaelVale&layout=donut&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniRafaelVale&theme=gruvbox)  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniRafaelVale&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniRafaelVale&theme=gruvbox)
 | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViniRafaelVale&theme=gruvbox&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniRafaelVale&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniRafaelVale&theme=gruvbox)
+| :-: | :-: | :-: |
+  
+</div>
 
  ##
 
- <h6 align="center">ViniRafaelVale©️ 2024</h6>
+ <h6 align="center">ViniRafaelVale©️ 2025</h6>
